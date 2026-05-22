@@ -58,11 +58,11 @@ Los días martes y viernes de 8:30am a 12:50pm.
 | 10a              | 05-19 mar  | trabajo en grupo para proyecto-02                    | Flusser, cap. 4, 5 |
 | 10b              | 05-22 vie  | trabajo en proyecto-02                               | Flusser, cap. 6, 7 |
 | 11a              | 05-25 mar  | trabajo en proyecto-02                               | Flusser, cap. 8, 9 |
-| 11b              | 05-29 vie  | entrega proyecto-02                                  |                    |
+| 11b              | 05-29 vie  | trabajo en proyecto-02                               |                    |
 | 12a              | 06-02 mar  | trabajo en proyecto-02                               |                    |
 | 12b              | 06-05 vie  | entrega proyecto-02                                  |                    |
 | 13a              | 06-09 mar  |                                                      |                    |
-| 13b              | 06-12 vie  |                                 |                    |
+| 13b              | 06-12 vie  |                                                      |                    |
 | 14a              | 06-16 mar  |                                                      |                    |
 | 14b              | 06-19 vie  | entrega proyecto-03                                  |                    |
 | 15a              | 06-23 mar  | circuitos con motores                                |                    |
