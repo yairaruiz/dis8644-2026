@@ -8,6 +8,32 @@
 - Vania paredes / [24-paredesvania](https://github.com/terroiblea/dis8644-2026-1-procesos-2/tree/main/24-paredesvania)
 - Carla Pino / [25-coff4](https://github.com/terroiblea/dis8644-2026-1-procesos-2/tree/main/25-Coff4)
 
+# Reporte de estado — PCBs
+
+## Placas usadas
+- **Placa 01 (percusor "Barry Benson")**: diseñada por grupo 06
+- **Placa 02 (percusor "Ludub/Lubdub")**: diseñada por grupo 06
+- **Placa 03 (oscilador "Chirihue")**: diseñada por grupo 04
+
+## Estado de construcción
+- **Placa 01 (Barry Benson)**: funciona perfecto.
+- **Placa 02 (Ludub)**: funciona a medias, solo en cierta posición. Se sospechó de la soldadura, se reforzó y siguió igual o peor. Ahora se sospecha de los cables; se cambiarán mañana para ver si se soluciona.
+- **Placa 03 (Chirihue)**: no funciona. Prende la luz pero no oscila ni suena. Se intentó resolver sin éxito y se decidió no seguir insistiendo con esta placa en su formato actual. Plan: armar el circuito en protoboard para probar que funcione, y si es así, soldarlo en una placa verde para presentar.
+
+## Ayudas eléctricas que necesitamos domingo
+- Ayuda para confirmar si el problema de la placa 02 (Ludub) son efectivamente los cables (dado que ya se descartó la soldadura), y cómo solucionarlo si es otra causa.
+- Ayuda para armar y probar el oscilador (Chirihue) en protoboard, ya que en placa nunca logró funcionar y no tenemos referencia de otro grupo que la haya hecho andar, o ver si se puede solucionar lo de la pcb.
+
+## Ayuda audio que necesitamos domingo
+- Estamos usando el parlante/amplificador del LID para la salida de audio; no hay problemas reportados en esta parte por ahora.
+
+## Materiales faltantes
+- No nos faltan materiales.
+- No estamos usando placa de piezo.
+
+## Nota adicional
+Estos problemas (especialmente el oscilador sin resolver) nos han atrasado con la carcasa, ya que su diseño depende de cuántas placas y potenciómetros usaremos finalmente :(
+
 ## Biofonía
 
 > “Lo que late, lo que vuela, lo que canta”
