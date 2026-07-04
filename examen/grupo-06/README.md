@@ -8,6 +8,10 @@
 - Vania paredes / [24-paredesvania](https://github.com/terroiblea/dis8644-2026-1-procesos-2/tree/main/24-paredesvania)
 - Carla Pino / [25-coff4](https://github.com/terroiblea/dis8644-2026-1-procesos-2/tree/main/25-Coff4)
 
+## Problemas 04.07
+
+Nosotros hemos tenido varios problemas con las pcb, de los cuales ya logramos resolver muchos coon ayuda de nuestros compañeres (sobre todo Cami Ramirez) y mucha prueba y error, ahora mismo ya nos funciona Barry Benson, ludup nos funciona a medias, funciona pero en una cierta posición, creímos que era la soldadura pero se reforzó y seguía igual o peor, creemos ahora que pueden ser unos cables, por lo que mañana los cambiaremos y veremos si se soluciona. Respecto a la tercera placa que queríamos utilizar, la del Chirihue, no  os funciona, prendía la luz pero no oscilaba ni sonaba, mucho estrés, no logramos hacerla funcionar y nos rendimos, por lo que tenemos pensado en armar el circuito en protoboard para ver si nos funciona, si es así, luego soldarlo en una placa verde para soldar y presentarlo de esa manera. Estos problemas han hecho que no podamos avanzar con nuestra carcasa ya que esta depende de cuantas placas y potenciometros usaremos, por lo que nos ha atrasado ;(
+
 ## Biofonía
 
 > “Lo que late, lo que vuela, lo que canta”
