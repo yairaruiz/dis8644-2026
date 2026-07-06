@@ -538,7 +538,6 @@ inspiración y referentes (con cita)
 
 ---
 
-
 | Video 1 | Video 2 | Video 3 |
 |:-------:|:-------:|:-------:|
 | [![Video 1](https://img.youtube.com/vi/JmE9NbwjoMs/hqdefault.jpg)](https://youtube.com/shorts/JmE9NbwjoMs) | [![Video 2](https://img.youtube.com/vi/Sk7TLUBUIL0/hqdefault.jpg)](https://youtube.com/shorts/Sk7TLUBUIL0) | [![Video 3](https://img.youtube.com/vi/-w2bnB7ahFI/hqdefault.jpg)](https://youtube.com/shorts/-w2bnB7ahFI) |
@@ -548,7 +547,10 @@ inspiración y referentes (con cita)
 | [![Video 7](https://img.youtube.com/vi/mTNN9lAFyIs/hqdefault.jpg)](https://youtube.com/shorts/mTNN9lAFyIs) | [![Video 8](https://img.youtube.com/vi/chz79BSDsxw/hqdefault.jpg)](https://youtube.com/shorts/chz79BSDsxw) | [![Video 9](https://img.youtube.com/vi/vpFVOLXRS30/hqdefault.jpg)](https://youtube.com/shorts/vpFVOLXRS30) |
 | **Video 10** | **Video 11** | **Video 12** |
 | [![Video 10](https://img.youtube.com/vi/bo8u3_Ju_fE/hqdefault.jpg)](https://youtube.com/shorts/bo8u3_Ju_fE) | [![Video 11](https://img.youtube.com/vi/CvPNiDL23gA/hqdefault.jpg)](https://youtube.com/shorts/CvPNiDL23gA) | [![Video 12](https://img.youtube.com/vi/T8TXoX9cu-E/hqdefault.jpg)](https://youtube.com/shorts/T8TXoX9cu-E) |
-
+| **Video 13** | **Video 14** | **Video 15** |
+| [![Video 13](https://img.youtube.com/vi/IEccosttbZo/hqdefault.jpg)](https://youtu.be/IEccosttbZo) | [![Video 14](https://img.youtube.com/vi/x9obZZ_ijnc/hqdefault.jpg)](https://youtube.com/shorts/x9obZZ_ijnc) | [![Video 15](https://img.youtube.com/vi/ZA6rcsc92XE/hqdefault.jpg)](https://youtube.com/shorts/ZA6rcsc92XE) |
+| **Video 16** | **Video 17** | |
+| [![Video 16](https://img.youtube.com/vi/VhZFXO9z3AM/hqdefault.jpg)](https://youtu.be/VhZFXO9z3AM) | [![Video 17](https://img.youtube.com/vi/TeZhuZnchr8/hqdefault.jpg)](https://youtu.be/TeZhuZnchr8) | |
 ---
 
 ## composición
