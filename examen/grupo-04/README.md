@@ -2,49 +2,62 @@
 
 ## Integrantes
 
-- Paula Fuentes Mena (paulafuentesm)
-- Santiago Cifuentes Vélez (santiagocifuvelez)
-- Kristel Ladrón de Guevara Jara (kristelagj)
-- Yaira Alexandra Ruiz Ossandón / (yairaruiz)
-- Catalina Anatonia Oyanedel Sanchez / *(catalinaoyanedel-01)
-- Antonella Kiara Aguilar Plate / (antokiaraa)
+- Antonella Kiara Aguilar Plate / [@antokiaraa](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/01-antokiaraa)
+- Santiago Cifuentes Vélez / [@santiagocifuvelez](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/08-santiagocifuvelez)
+- Paula Fuentes Mena / [@paulafuentesm](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/12-paulafuentesm)
+- Kristel Ladrón de Guevara Jara / [@kristelagj](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/16-kristelagj)
+- Catalina Anatonia Oyanedel Sanchez / [@catalinaoyanedel-01](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/22-catalinaoyanedel-01)
+- Yaira Alexandra Ruiz Ossandón / [@yairaruiz](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/28-yairaruiz)
 
 ## Criterios de diseño del sistema
 
-La inspiración para nuestro proyecto comenzó desde el sonido que se produce a partir de nuestro oscilador de la solemne anterior, el cual era parecido al del chirihue, ave nativa chilena. Además, como antecedente, integrantes de nuestro equipo realizaron un sintetizador que lleva como título “Naturalezas Interconectadas”, proponiendo que distintas naturalezas interactúan las unas con las otras, teniendo así un comienzo para nuestra investigación.
+La inspiración para nuestro proyecto comienza desde el sonido que se produce a partir de uno de nuestros osciladores, el cual era parecido al del chirihue, ave nativa chilena. Además, como antecedente, integrantes de nuestro equipo en la entrega del primer proyecto realizaron un sintetizador que lleva como título “Naturalezas Interconectadas”, proponiendo que distintos tipos de naturalezas interactúan las unas con las otras, teniendo así un comienzo para nuestra investigación.
 
-Es por esta razón que nuestra conceptualización surge en base a las teorías de Donna Harraway. La autora propone el concepto de cyborg, planteando la interconexión entre diversos componentes y entornos —incluso componentes artificiales y tecnológicos—, como relaciones extensivas en el constructo de lo vivo.¹ En sus palabras, “un cyborg es un organismo cibernético, un híbrido de máquina y organismo, una criatura de realidad social y también de ficción.” ² 
+A partir de esto, nuestra conceptualización surge en base a las teorías de Donna Haraway. La autora propone el concepto de cyborg, planteando la interconexión entre diversos componentes y entornos —incluso componentes artificiales y tecnológicos—, como relaciones extensivas en el constructo de lo vivo.¹ En sus palabras, “un cyborg es un organismo cibernético, un híbrido de máquina y organismo, una criatura de realidad social y también de ficción.” ² 
 
-A partir de estas definiciones, entendemos que los componentes artificiales y tecnológicos pueden ser una parte más del cuerpo, una extensión del organismo y de lo vivo, desafiando los límites establecidos y volviéndolos más difusos. Así, a través del concepto de unión, utilizamos diversos elementos: 
+A partir de estas definiciones, entendemos que los componentes artificiales y tecnológicos pueden ser una parte más del cuerpo, una extensión del organismo y de lo vivo, desafiando los límites establecidos y volviéndolos más difusos.  Así, a través del concepto de unión, utilizamos diversos elementos: 
 
-- La naturaleza como inspiración.
-- El humano/organismo como el medio.
-- Una viola, como instrumento clásico, la cual extiende el brazo y genera la primera vibración de la interacción.
-- Las placas de nuestro sintetizador, como máquinas electrónicas, pegadas al cuerpo como un accesorio, formando parte de él y modificando el sonido de la viola, tratando de imitar la naturaleza.
+![elementos](./imagenes/elementos.png)
 
-Finalmente, el concepto que engloba nuestra investigación es la simpoiesis. Este sostiene que ningún ser, sistema o creación se produce o se sostiene a sí mismo en solitario, sino mediante redes de colaboración mutua, por esto planteamos que nada trabaja de manera solitaria, todos los elementos se relacionan y se retroalimentan mutuamente. 
+Finalmente, el concepto que engloba nuestra investigación es la **simpoiesis.** Este sostiene que ningún ser, sistema o creación se produce o se sostiene a sí mismo en solitario, sino mediante redes de colaboración mutua, por esto planteamos que nada trabaja de manera solitaria, todos los elementos tiene una relación y se retroalimentan mutuamente. 
 
-_“En el centro de este mundo que se deshilacha, la interdependencia permanece. Lo vivo y lo no vivo están tejidos en una trama que se modifica a cada instante.” Jorgelina Sannazzaro_
+_“En el centro de este mundo que se deshilacha, la interdependencia permanece. Lo vivo y lo no vivo están tejidos en una trama que se modifica a cada instante.” Jorgelina Sannazzaro³_
 
 ## Contexto desde Chile, desde nuestra disponibilidad material
 
-La historia de la música electroacústica en Chile se remonta a la década de los 50, dividiéndose en diversas etapas. Al ya empezar a consolidarse, aparecen los primeros discos, junto a la creación de un laboratorio en el que, entre 1975 y 1982, varios estudiantes de composición realizaron obras electroacústicas. ¹ Con altos y bajos, la electroacústica pasó por diversos ciclos, teniendo un oscuro período sin obras, pero logrando finalmente volver a surgir. Según Federico Schumacher, la aparición del computador como herramienta esencial en la composición electroacústica  facilitó enormemente esta nueva situación.
+La historia de la música electroacústica en Chile se remonta a la década de 1950, dividiéndose en diversas etapas. Según Federico Schumacher, para llegar a consolidarse, la aparición del computador como una herramienta esencial en la composición electroacústica  facilitó enormemente esta nueva situación.⁴ 
 
-Tenemos el computador como un principal antecedente en la música electroacústica generada en Chile, lo que nos permite adentrarnos en un gran referente, José Vicente Asuar, músico e ingeniero, quien realizó Comdasuar en 1977-78, un computador que funcionaba como herramienta compositiva e instrumental en tiempo real. Incluía editor de partitura y secuenciador, una herramienta de composición algorítmica, un programa de síntesis de sonido digital, una unidad analógica de proceso y enriquecimiento de la señal.
+Tenemos el computador como un principal antecedente en la música electroacústica generada en Chile, lo que nos permite tener como referencia a un gran exponente, José Vicente Asuar, músico e ingeniero, quien realizó Comdasuar en 1977-78, un computador que funcionaba como herramienta compositiva e instrumental en tiempo real. Incluía editor de partitura y secuenciador, una herramienta de composición algorítmica, un programa de síntesis de sonido digital, una unidad analógica de proceso y enriquecimiento de la señal.
 
 El desarrollo y la evolución de este mundo llevó a pasar de los generadores analógicos de onda y grabadores de cinta al computador, reemplazando a la gran mayoría de los antiguos equipos, si no a todos. 
 
-En el contexto de este taller partimos desde la base de la historia, sin utilizar computadores, sino circuitos analógicos para producir nuestros propios sintetizadores. En _¿Qué es la música electrónica?_ de Gustavo Becerra escrito en 1957, él responde ante las dudas de este nuevo fenómeno: quienes tocan este tipo música pueden considerarse ejecutantes, pero éstos no tocan ningún instrumento tradicional en el cumplimiento de sus funciones. Operan osciladores de audiofrecuencia y equipos grabadores de cinta magnética. ²
+A pesar de eso, en el contexto de este taller partimos desde la base de la historia, sin utilizar computadores, sino circuitos analógicos para producir nuestros propios sintetizadores. En ¿Qué es la música electrónica? de Gustavo Becerra (otro importante exponente) escrito en 1957, él responde ante las dudas de este nuevo fenómeno: quienes tocan este tipo música pueden considerarse ejecutantes, pero éstos no tocan ningún instrumento tradicional en el cumplimiento de sus funciones. Operan osciladores de audiofrecuencia y equipos grabadores de cinta magnética.⁵ 
+
+Por lo tanto, para encontrar los componentes para generar nuestros propios circuitos nos adentramos principalmente en la calle San Diego, que cuenta con una gran variedad de tiendas y disponibilidad de componentes electrónicos, siendo algunas de ellas Victronics, Orfali y Electrónica Ibarra.
 _________________________________________________________________________
 
 # Naturalezas Interconectadas: Pieza Final
 ## Placas soldadas
 
-Piezo: Maicra
-Oscilador: Chirihue mecanizado
-Parlante: Parla
+- **Piezo:** Maicra
+- **Oscilador:** Chirihue mecanizado
+- **Parlante:** Parla
 
 ### Principio de funcionamiento de cada una
+
+**Maicra:**
+
+El piezo es un componente que convierte la presión o vibración mecánica en señales eléctricas que luego alimentarán y afectarán el circuito complementario (la demás placas). En nuestro caso, lo conectamos a una viola para generar las vibraciones que luego convertirá. Este módulo nos permite transformar un sonido, convirtiéndolo en una señal que avanzará en nuestro oscilador.
+
+**Chirihue Mecanizado:**
+
+Su función es generar la forma de la onda que luego se convierte en sonido. Se caracteriza por repetir sonidos extremadamente cortos y agudos de manera continua, variando en la tonalidad y en el ritmo. 
+
+**Parla:**
+
+Convierte señales eléctricas en ondas de sonido enviadas desde el chirihue. Su función principal es transformar la información de audio proveniente de un dispositivo.
+
+### Qué tipo de señal entrega a la salida, qué recibe
 
 | Módulo | ¿Qué recibe? | ¿Qué entrega? |
 | :--- | :--- | :--- |
@@ -56,69 +69,130 @@ Parlante: Parla
 Recibe las vibraciones mecánicas generadas por la viola y las transforma en una señal eléctrica analógica que alimenta el resto del sistema.
 
 **Chirihue mecanizado:**
-Su función es generar la forma de la onda que luego se convierte en sonido. Se caracteriza por repetir sonidos extremadamente cortos y agudos de manera continua, variando en la tonalidad y en el ritmo. 
-
-**Parla:** 
-Convierte señales eléctricas en ondas de sonido enviadas desde el chirihue. Su función principal es transformar la información de audio proveniente de un dispositivo.
-
-### Qué tipo de señal entrega a la salida, qué recibe
-
-**Maicra:**
-Recibe las vibraciones mecánicas generadas por la viola y las transforma en una señal eléctrica analógica que alimenta el resto del sistema.
-
-**Chirihue mecanizado:**
 Recibe la señal eléctrica proveniente del piezo y la procesa para generar una señal eléctrica oscilante, produciendo el sonido característico del sintetizador, el cual es el canto del chirihue.
 
 **Parla:**
-Recibe la señal eléctrica enviada por el oscilador y la convierte en ondas sonoras, permitiendo escuchar el resultado de la interacción entre todos los módulos, que sería la melodía final que deslumbra al espectador. 
-
+Recibe la señal eléctrica enviada por el oscilador y la convierte en ondas sonoras, permitiendo escuchar el resultado de la interacción entre todos los módulos, que sería la melodía final.
 
 ## Lista de materiales y costos:
 
-Tiempo de soldadura: 
-Este proceso de soldadura, lo comenzamos el 16 de Junio del 2026, a las 9:00am durante la clase, la cual dura 4 horas, y así fueron nuestros días de reunión y el tiempo dedicado en ellos a soldar: 
+### BOM Maincra
 
-16 de junio: 9:00am - 13:00. 4 horas
-19 de junio (presentación examen). No se soldó.
-23 de junio: 9:00am - 13:00. 4 horas
-26 de junio: 9:00 - 13:00. 4 horas
-30 de junio: 10:00 - 13:30. 3 horas y media
-01 de julio: 11:00  -  21:00. 10 horas.
-02 de julio: (cata), 11:00 - 18:00. 7 horas.
+| Componente | Cantidad | Valor unitario | Link |
+| :--- | :---: | :---: | :--- |
+| Chip NE555P | 1 | $490 | [victronics.cl](https://www.victronics.cl/circuitos-integrados/lm555cngeneralpurposebipolartimerdip8/) |
+| Chip TL072CP | 1 | $990 | [victronics.cl](https://www.victronics.cl/circuitos-integrados/tl072cpdualjfetlowpoweropamplifierdip8/) |
+| Regulador L7805CV | 1 | $350 | [victronics.cl](https://www.victronics.cl/reguladores/reguladorvoltl7805cv5v-15ato220/) |
+| Diodo 1N4007 | 1 | $200 | [mechatronicstore.cl](https://www.mechatronicstore.cl/diodo-rectificador-in4007-1n4007-4007/) |
+| Diodo 1N5819 | 2 | $586 | [cl.rsdelivers.com](https://cl.rsdelivers.com/product/nexperia/bat85113/nexperia-diodo-bat85113-diodo-schottky-200-ma-30-v/0300978) |
+| Transistor 2N2222 | 1 | $200 | [mechatronicstore.cl](https://www.mechatronicstore.cl/transistor-2n2222/) |
+| Potenciómetro B10K | 1 | $495 | [altronics.cl](https://altronics.cl/potenciometro-lineal-10k-b10k) |
+| Potenciómetro B500K | 1 | $495 | [altronics.cl(https://altronics.cl/potenciometro-lineal-500k-b500k?search=b500k) |
+| LED 3mm | 3 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/led-3mm-5mm/) |
+| Resistencia 47 Ω | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
+| Resistencia 100 Ω | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
+| Resistencia 220 Ω | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
+| Resistencia 1 KΩ | 6 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
+| Resistencia 2,2 KΩ | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
+| Resistencia 10 KΩ | 2 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
+| Resistencia 100 KΩ | 3 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
+| Resistencia 2,2 MΩ | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
+| Condensador cerámico 1 µF | 1 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensadores-ceramicos-distintos-valores/) |
+| Condensador cerámico 4.7 nF | 1 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensadores-ceramicos-distintos-valores/) |
+| Condensador cerámico 10 nF | 1 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensadores-ceramicos-distintos-valores/) |
+| Condensador cerámico 100 nF | 3 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensadores-ceramicos-distintos-valores/) |
+| Condensador polarizado 10 µF | 2 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/) |
+| Condensador polarizado 100 µF | 3 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/) |
+| Piezo | 1 | $990 | [mechatronicstore.cl](https://www.mechatronicstore.cl/sensor-piezoelectrico-27mm-con-cable/) |
+| Cables dupont 40 uni. | 1 | $2.990 | [/mcielectronics.cl](https://mcielectronics.cl/shop/product/cable-dupont-macho-macho-20cm-pack-40-unidades-2/) |
+| Batería 9V recargable | 1 | $7.990 | [sodimac.cl](https://www.sodimac.cl/sodimac-cl/articulo/110251085/bateria-recargable-9v/110251089) |
+| Interruptor Switch | 1 | $570 | [katode.cl](https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html?srsltid=AfmBOorJIleUySzAORFwXSattHKE4BKH2LmhhXZS_8fZ4MW-G6kwnxqA) |
 
+### Bom Chirihue Mecanizado
+
+| Componente | Cantidad | Valor unitario | Link |
+| :--- | :---: | :---: | :--- |
+| Chip 40106 | 1 | $1.200 | [electronicareal.cl](https://electronicareal.cl/producto/integrado-digital-cd-40106/?srsltid=AfmBOopGygR12K2_-zL_pf-RaOB5PvLmK7oy2TURaqkeA0zU1alOhJD-) |
+| Chip LM324 | 1 | $590 | [mechatronicstore.cl](https://www.mechatronicstore.cl/amplificador-operacional-lm324/) |
+| Condensador 10 µF | 3 | $330 | [victronics.cl](https://www.victronics.cl/condensadores/condensadorelectrolitico10uf50v/) |
+| Condensador 100 nF | 2 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensadores-ceramicos-distintos-valores/) |
+| Condensador 100 µF | 1 | $380 | [victronics.cl](https://www.victronics.cl/condensadores/cond-electrolitico-100uf-25v20105oc-6x12-p2-5mm-10u/) |
+| Diodo 1N4148 | 4 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/diodo-rectificador-de-alta-frecuencia-1n4148-do35/) |
+| Diodo 1N4007 | 1 | $200 | [mechatronicstore.cl](https://www.mechatronicstore.cl/diodo-rectificador-in4007-1n4007-4007/) |
+| Resistencia 1 kΩ | 6 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/resistencia/) |
+| Conector DC | 1 | $239 | AliExpress |
+| Conector de audio | 1 | $51 | AliExpress |
+| Conector de alimentación | 1 | $148 | AliExpress |
+
+### Tiempo de trabajo y soldadura: 
+Este proceso de soldadura, lo comenzamos el 16 de Junio del 2026, a las 9:00 am durante la clase, la cual dura 4 horas, y así fueron nuestros días de reunión y el tiempo dedicado en ellos a soldar: 
+
+- Martes 16 de junio: 9:00am - 13:00. **4 horas**
+- Viernes 19 de junio (presentación pre-examen). No se soldó.
+- Martes 23 de junio: 9:00am - 13:00. **4 horas**
+- Viernes 26 de junio: 9:00 - 13:00. **4 horas**
+- Martes 30 de junio: 10:00 - 13:30. **3 horas y media**
+- Miércoles 01 de julio: 11:00  -  21:00. **10 horas.**
+- Jueves 02 de julio: 11:00 - 18:00. **7 horas.**
+- Viernes 03 de julio: 11:00 - 21:00. **10 horas**
+- Domingo 05 de julio: 
+
+El tiempo de trabajo y soldadura fue de aproximadamente de **42 horas y media.** _(hasta el momento)_
 
 ## Carcasa
 
 ### Decisiones materiales y formales de la carcasa
 
-La carcasa está compuesta por alambre y la planteamos como un accesorio que permite que el sintetizador actúe como una extensión del cuerpo. Esta decisión se vincula a la lógica  de Donna Haraway, donde la carcasa se ubica en una parte del cuerpo, permitiendo que el piezo también se conecte a la viola, generando un sistema cyborg bajo la idea de que humanos y máquinas se retroalimentan constantemente, mediante el concepto de la unión entre lo humano, la naturaleza, el instrumento y lo tecnológico (pcb).
+La carcasa está compuesta por alambre y acrílico, la planteamos como un accesorio que nos permite que el sintetizador actúe como una extensión del cuerpo. Esta decisión se vincula a la lógica  de Donna Haraway, donde la carcasa se ubica en una parte del cuerpo, permitiendo que el piezo también se conecte a la viola, generando un sistema cyborg bajo la idea de que humanos y máquinas se retroalimentan constantemente, mediante el concepto de la unión entre lo humano, la naturaleza, el instrumento y lo tecnológico (pcb).
 
 ### Inspiración y referentes
 
-Formalmente funciona como un ornamento estructural reforzando la unión entre lo híbrido: un cyborg inspirado en la naturaleza. 
+Formalmente funciona como un ornamento estructural que refuerza la unión entre lo híbrido: un cyborg inspirado en la naturaleza. 
 
 Desde el imaginario colectivo que existe sobre el cyborg, tenemos como referente a Stelarc. Una de sus obras, The Third Hand (Tokyo, Yokohama, Nagoya 1980), es descrita por él con las siguientes palabras: “Acoplado con la tecnología, el cuerpo ahora actúa más allá de los límites de su piel y más allá del espacio local que habita. El cuerpo es ahora un sistema operativo extendido. El cuerpo se ha vuelto obsoleto e invadido por la tecnología.” 
 
-En este contexto, tuvimos en cuenta que la utilización de cables para las conexiones entre placas ya se acercaría a esta estética por el simple hecho de estar sobre el cuerpo, así que decidimos reforzar la idea de lo natural a través de una carcasa que envuelva a las placas hecha con ornamentos. 
+![Stelarc](./imagenes/referente.png)
 
-Una de nuestras principales inspiraciones fue la metalistería arquitectónica del Art Nouveau, la cual exhibía formas inspiradas en las curvas sinuosas de la naturaleza, como flores, tallos y capullos. Una de las expresiones características de este movimiento fue la utilización de hierro forjado en los edificios para la fabricación de vallas, balcones decorativos, barandas de escaleras y elementos metálicos en los trabajos de interiorismo. A través de los años algunos de los balcones y rejas que vemos en el día a día han mantenido una inclinación a las formas sinuosas, formas que también han servido de inspiración para la realización de joyería y experimentaciones materiales.
+Tuvimos en cuenta que la utilización de cables para las conexiones entre placas ya se acercaría a esta estética por el simple hecho de estar sobre el cuerpo, así que decidimos reforzar la idea de lo natural a través de una carcasa hecha con ornamentos. En cuanto a las decisiones materiales, utilizamos acrílico y alambre. Habíamos decidido en un principio hacerla completamente de alambre, pero no sabíamos con certeza si es que este podría interferir con el funcionamiento de las placas al ser conductor, por lo que decidimos incluir acrílico en la carcasa para evitar el posible contacto directo. Este material nos permitió la visibilidad de las placas, aportando al imaginario del cyborg y al soporte que necesitábamos para apoyarlas sobre el cuerpo, además, reforzamos la idea de lo natural con ornamentos tallados. Sobre esta base colocamos las formas creadas con alambre, material que nos sirvió gracias a su flexibilidad.
 
-Esta lógica nos funciona como un referente y un criterio para construcción, finalmente utilizando el alambre por su funcionalidad estructural y flexible, que nos permite simular estas formas con facilidad y crear estructuras. 
+![carcasa](./imagenes/carcasa.png)
+
+Dentro de la inspiración para la realización de estas formas tenemos como referencia la metalistería arquitectónica del Art Nouveau, la cual exhibía formas inspiradas en las curvas sinuosas de la naturaleza, como flores y tallos. Una de las expresiones características de este movimiento fue la utilización de hierro forjado en los edificios para la fabricación de vallas, rejas, balcones decorativos, barandas de escaleras y elementos metálicos en los trabajos de interiorismo. Podemos observar diversos tipos de abstracciones desde el auge del movimiento hasta formas más simples se han mantenido hasta el día de hoy.
+
+![Art Nouveau](./imagenes/referente2.png)
 
 ## Composición
 
-_(En proceso)_
+Nuestra partitura se divide en dos:
+
+- **Visual:** para el intérprete.
+- **Escrita:** para el espectador.
+
+Como referente para la primera, tenemos a Asuar, quien en la relación de sus obras utilizaba formas geométricas para representar el sonido que quería crear. Esta forma de observar la música nos da la posibilidad de que quien toque la viola pueda interpretar de mejor manera el ritmo de los sonidos.
+
+![Asuar](./imagenes/partituras.png)
+_Documental Variaciones Espectrales – dereojo comunicaciones. (2016)_
+
+**_(En proceso)_**
+
+Respecto a la segunda, utilizamos como un marco referencial los libros recomendados por los profesores: Pomelo de Yoko Ono y Anthology of Text Scores de Pauline Oliveros. Estas partituras experimentales nos hicieron ver la posibilidad de incluir relatos más poéticos e instrucciones dentro de la creación de lo musical.
+
+**Partitura:**
 
 En un país, al muy sur del globo, existía un pequeño pájaro cuyo canto se convirtió en un hito, pues esta pequeña ave, muy grande de corazón, le hizo un concierto a Violeta Parra, quien sin cuerdas en la guitarra y sin hojas en el colihue, le escuchó y revivió. 
+
 ¡Hay vida otra vez!
+
 Ahora es el turno de devolver este impulso de fuerza y vida…, el chirihue mecanizado, quien sin cuerdas en la guitarra y sin hojas en el colihue, la escuchará y revivirá, nos escuchará, y revivirá.
-Primero vamos a intentar ver la melodía de las cuerdas de la viola, y vamos a ser testigos de cómo cada señal emitida por esta, dará la vida al chirihue para que entone su canto.
 
-El chirihue está cantando, ¡ESTÁ VIVO!, pero te necesita a ti, quien le escucha, pues él en su canto reconoce que hay más melodías por entonar…, pero no puede hacerlo sin ti:
+1. Primero vamos a intentar ver la melodía de las cuerdas de la viola, y vamos a ser testigos de cómo cada señal emitida por esta, dará la vida al chirihue para que entone su canto.
+
+2. El chirihue está cantando, ¡ESTÁ VIVO!, pero te necesita a ti, quien le escucha, pues él en su canto reconoce que hay más melodías por entonar…, pero no puede hacerlo sin ti:
 Así que ahora acércate a la artista de las cuerdas, y vuélvanse uno; mueve las perillas de los potenciómetros, y escuchemos el cantó de aquel pequeño mecanizado volver a la vida.
-Gracias a ti, y tu buena bondad, la voz de los más pequeños se hace grande. Escucha, y sorprendete como si de riñihue se tratara. 
 
-Y así funcionan diversas naturalezas…, se entretejen y se convierten en una sola.
+3. Gracias a ti, y tu buena bondad, la voz de los más pequeños se hace grande. Escucha, y sorprendete como si de riñihue se tratara. 
+
+4. Y así funcionan diversas naturalezas…, se entretejen y se convierten en una sola.
 
 ## REPORTE DE ESTADO
 
@@ -143,24 +217,31 @@ ayudas eléctricas que necesitamos domingo:
 
 ## Bibliografía
 
-**Inspiración para construir, desde donde partieron**
+**Criterios de diseño del sistema**
 
-1. Qué es lo vivo y lo no vivo - Revista endémico
-2. Manifiesto Ciborg – El sueño irónico de un lenguaje común para las mujeres en el circuito integrado por Donna Haraway (1984) 
-3. Interdependencias que nos sostienen en tiempos de cambio global – Jorgelina Sannazzaro
-- Ciencia, cyborgs y mujeres: La reInvención de la naturaleza - Donna Haraway 
-- Hacia una filosofía de la fotografía - Vilém Flusser
+1. ¿Qué es lo vivo y lo no vivo? – Revista endémico. (2025)
+2. Manifiesto Ciborg – El sueño irónico de un lenguaje común para las mujeres en el circuito integrado por Donna Haraway. (1984) 
+3. Interdependencias que nos sostienen en tiempos de cambio global – Jorgelina Sannazzaro. (2025)
+- Ciencia, cyborgs y mujeres: La reinvención de la naturaleza. – Donna Haraway (1991)
+- Hacia una filosofía de la fotografía. – Vilém Flusser (1983)
 
-**Contexto desde Chile, desde nuestra disponibilidad material**
+**Contexto desde Chile, desde nuestra disponibilidad material**   
 
-1. 50 años de música electroacústica en Chile - Federico Schumacher Ratti
-2. ¿Qué es la música electrónica? - Gustavo Becerra (1957)
-- Documental Variaciones Espectrales - dereojo comunicaciones
-- José Vicente Asuar. (s. f.). José Vicente Asuar | MusicaPopular.cl. https://www.musicapopular.cl/artista/jose-vicente-asuar/ 
-- José Vicente Asuar: el legado del padre de la música electroacústica en Chile - Universidad de Chile. (s. f.). Universidad de Chile. https://uchile.cl/noticias/203484/jose-vicente-asuar-el-padre-de-la-musica-electroacustica-en-chile 
+4. 50 años de música electroacústica en Chile – Federico Schumacher Ratti. (2007)
+5. ¿Qué es la música electrónica? – Gustavo Becerra. (1957)
+- [Documental Variaciones Espectrales – dereojo comunicaciones. (2016)](https://www.youtube.com/watch?v=sJ9EZWBZee8)
+- [José Vicente Asuar. (s. f.)| MusicaPopular.cl.](https://www.musicapopular.cl/artista/jose-vicente-asuar/) 
+- [José Vicente Asuar: el legado del padre de la música electroacústica en Chile - Universidad de Chile. (s. f.)](https://uchile.cl/noticias/203484/jose-vicente-asuar-el-padre-de-la-musica-electroacustica-en-chile)
 
-**Inspiración y referentes (con cita)**
+**Inspiración y referentes carcasa**
 
-- STELARC. (s. f.). STELARC, 2025. https://stelarc.org/_.php#page/3 
-- https://lalerou-com.translate.goog/metalwork-art-nouveau/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc 
+- [STELARC. (s. f.). STELARC, 2025.](https://stelarc.org/_.php#page/3)
+- [La metalistería del Art Nouveau, delicados detalles arquitectónicos.](https://lalerou-com.translate.goog/metalwork-art-nouveau/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc) 
+- [Melting Home Argentina](https://www.melting.com.ar) 
+
+**Inspiración y referentes partitura**
+- [Documental Variaciones Espectrales – dereojo comunicaciones. (2016)](https://www.youtube.com/watch?v=sJ9EZWBZee8)
+- Anthology of Text Scores – Pauline Oliveros. (2013)
+- Pomelo – Yoko Ono. (1964)
+
 
