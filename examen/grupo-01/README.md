@@ -12,7 +12,7 @@
 
 ### ¿De dónde partimos? 
 
-No teníamos conocimiento previo antes de entrar al taller, fue nuestra primera vez trabajando con y soldando componentes electrónicos a placas. Aparte de las clases que dieron los profesores buscamos inspiración en páginas web como foros y canales de YouTube que mostraban como hacer partes de sintetizadores (ej.; filtros, amplificadores, reguladores etc..). 
+No teníamos conocimiento previo antes de entrar al taller, fue nuestra primera vez trabajando con y soldando componentes electrónicos a placas. Aparte de las clases que dieron los profesores buscamos inspiración en páginas web como foros y canales de YouTube que mostraban como hacer partes de sintetizadores (ej. filtros, amplificadores, reguladores etc..). 
 
 Todo este proceso ha sido prueba y error, si no funciona, se cambia y se vuelve a intentar. Gran parte de la ayuda fue entre compañeros, nos apoyamos para arreglar problemas comunes, compartíamos datos de lugares de compra y páginas web para buscar circuitos interesantes. 
 
@@ -92,9 +92,9 @@ La idea detrás de esta propuesta nace de la posibilidad de sentir y ver las vib
 
 ### BOM PCB 02, GRUPO 02: REGISTRO DE DESPLAZAMIENTO ESTÁTICO / NYAN CAT
 
-Este circuito también se categoriza como un secuenciador, es decir, que genera corrientes eléctricas en un patrón repetitivo y ordenado. Podemos tomar el mismo ejemplo del semáforo mencionado en el circuito anterior, donde este funciona encendiendo un LED detrás del otro sucesivamente hasta que se repite el ciclo.
+Este circuito también se categoriza como un secuenciador, es decir, que genera corrientes eléctricas en un patrón repetitivo y ordenado.
 
-Adicionalmente funciona con el mismo corazón, es decir un reloj que alimenta a este secuenciador. Este nos va a definir la velocidad con la que avanza la ola. Este secuenciador entrega distintas salidas o compases en el orden ya mencionado. El como ocurre esto es muy llamativo, ya que el cerebro detrás de todo esto, realmente son 2, los que se comunican entre ellos para poder generar el efecto ola o cascada.
+El cerebro detrás de este chip, realmente son 2, los que se comunican entre ellos para poder generar un efecto ola o cascada.
 
 | Componente | Cantidad | PCB | Valor unitario | Link | ¿Hay stock en LID? |
 | --- | --- | --- | --- | --- | --- |
@@ -115,44 +115,44 @@ Adicionalmente funciona con el mismo corazón, es decir un reloj que alimenta a 
 
 ### BOM PCB 03, GRUPO 03: COMANDO ESTELAR
 
-Este módulo recibe dos inputs, energía eléctrica a través de los conectores barrel jack y el voltaje de control que se ajusta girando el potenciómetro RV1, el cual determina la frecuencia de oscilación. Internamente ese voltaje entra al chip CD4046, el centro del circuito, que lo convierte en una oscilación cuya velocidad varía según ese voltaje. Esa señal pasa luego por dos inversores CD40106 que la limpian y estabilizan, hasta llegar al conector de audio jack (J4), que es el output del módulo, una señal oscilante limpia y lista para ser procesada por los demás módulos del sintetizador.
+Un voltaje entra al chip CD4046, el centro del circuito, que convierte una corriente en una oscilación cuya velocidad varía según el voltaje que le llega. Esa señal pasa luego por dos inversores en el CD40106 que la limpian y estabilizan, hasta llegar al conector de audio jack (el output del módulo). Terminamos con una señal oscilante limpia y lista para ser procesada por los demás módulos del sintetizador.
 
 | Componente | Cantidad | PCB | Valor unitario | Link | ¿Hay stock en LID? |
 | --- | --- | --- | --- | --- | --- |
-| Chip CD4046 | 1 | U1 | $700 | Electrónica Real | |
-| Chip CD40106 | 1 | U4 | $1200 | Electrónica Real | |
-| L7805 | 1 | U2 | $350 | Victronics | |
-| Diodo 1N4007 | 1 | D1 | $790 | Victronics | |
-| LED | 1 | D2 | $920 | Electrónica Real | |
-| Resistencia 100kΩ | 1 | R1 | $890 | Electrónica Real | |
-| Resistencia 1kΩ | 1 | R2 | $890 | Electrónica Real | |
-| Potenciómetro 100Ω | 2 | RV1, RV2 | $500 | Afel a Ingeniería | |
-| Capacitor 10nF | 1 | C1 | $520 | Victronics | |
-| Capacitor 100nF | 1 | C5 | $500 | Victronics | |
-| Capacitor 100uF | 2 | C2, C6 | $670 | Victronics | |
-| Capacitor 10uF | 2 | C3, C4  | $330 | Victronics | |
-| Capacitor 1uF | 1 | ?? | $300 | Victronics | |
-| Jack DC | 2 | J2, J3 | $150 | Electrónica Real | |
-| Jack de audio | 1 | J1 | $150-$300 | Victronics | |
+| Chip CD4046 | 1 | U1 | $700 | <https://electronicareal.cl/producto/integrado-digital-cmos-4046/> | No |
+| Chip CD40106 | 1 | U4 | $1200 | <https://electronicareal.cl/producto/integrado-digital-cd-40106/> | No |
+| L7805 | 1 | U2 | $350 | <https://www.victronics.cl/reguladores/reguladorvoltl7805cv5v-15ato220/> | Sí |
+| Diodo 1N4007 | 1 | D1 | $790 | <https://www.victronics.cl/diodos/diodo-rectif-1n4007-1000v-1a-vfd-1-1v-50u/> | Sí |
+| LED | 1 | D2 | $300 | <https://electronicareal.cl/producto/led-difuso-blanco-10mm/> | Sí |
+| Resistencia 100kΩ | 1 | R1 | $890 | <https://electronicareal.cl/producto/resistencia-1-4-w-100-k-ohm/> | Sí |
+| Resistencia 1kΩ | 1 | R2 | $890 | <https://electronicareal.cl/producto/resistencia-1-4-w-1-k-ohm/> | Sí |
+| Potenciómetro 100Ω | 2 | RV1, RV2 | $500 | Afel a Ingeniería | Sí |
+| Capacitor 10nF | 1 | C1 | $520 | <https://www.victronics.cl/condensadores/condensador-mlcc-10nf-0-01uf-50v-x7r-10-p0-2-10u/> | No |
+| Capacitor 100nF | 1 | C5 | $500 | <https://www.victronics.cl/condensadores/condensador-mlcc-0-1uf-50v-x7r-10-p0-1-10u/> | Sí |
+| Capacitor 100uF | 2 | C2, C6 | $670 | <ttps://www.victronics.cl/condensadores/cond-electrolitico-100uf-50v20-105oc-812-p4mm-10u/> | Sí |
+| Capacitor 10uF | 2 | C3, C4  | $330 | <https://www.victronics.cl/condensadores/condensadorelectrolitico10uf50v/> | Sí |
+| Capacitor 1uF | 1 | ?? | $300 | <https://www.victronics.cl/condensadores/cond-electrolitico-1uf-50v-20-105oc-511-p2-5mm-10u/> | Sí |
+| Jack DC | 2 | J2, J3 | $150 | Electrónica Real | Sí |
+| Jack de audio | 1 | J1 | $150-$300 | Victronics | Sí |
 
 ### Carcasas
 
 | Componente | Cantidad | Valor unitario | Link/Lugar | ¿Hay stock en LID? |
-|----------|:-----------:|:--------:|-------------:|-------------:|
-| Interruptor de palanca SPDT ON-ON | 5 | $590 | Electrónica Real | No |
-| Separador (M3*30mm) | 52 | $1490 x 4 | https://www.victronics.cl/hardware/separador-niquelado-m330mm-4u/ | No |
+|----------|-----------|--------|-------------|-------------|
+| Interruptor de palanca SPST ON-OFF | 5 | $590 | Electrónica Hobby (Página en remodelado) | No |
+| Separador (M3*30mm) | 52 | $1490 x 4 | <https://www.victronics.cl/hardware/separador-niquelado-m330mm-4u/> | No |
 | Tuerca (M3) | 20 | $1190 | Pernos alameda | No |
-| Golilla (M3) | 40 | $400 | https://www.victronics.cl/hardware/k3-d218-golilla-m3-ranurada-inox-a2-50u/ | No |
+| Golilla (M3) | 40 | $400 | <https://www.victronics.cl/hardware/k3-d218-golilla-m3-ranurada-inox-a2-50u/> | No |
 
 ### Tiempos trabajo
 
 | Proceso | Integrantes | Duración | Total equipo |
-|----------|:-----------:|:--------:|-------------:|
+|----------|-----------|--------|-------------|
 | Procesos y solución de errores | 5 | 3 semanas | 240h |
 
 | Proceso | Integrantes | Duración | Total equipo |
-|----------|:-----------:|:--------:|-------------:|
-| Soldadura | 5 | 3 semanas | ???h |
+|----------|-----------|--------|-------------|
+| Soldadura | 5 | 3 semanas | 54h |
 
 
 
@@ -166,17 +166,25 @@ Nuestro sintetizador está formado de 4 módulos:
 
 *Un micrófono de contacto que detecta vibraciones, manda señales a un amplificador e inversor de señales. Estos convierten la corriente la cual entra a un reloj interno que lo camba a pasos para que un secuenciador pueda funcionar.*
 
+(foto)
+
 ## Nyan cat (Secuenciador) 
 
 *Un secuenciador de 8 pasos (y dos fases) que permite la conexión de múltiples osciladores.*
+
+(foto)
 
 ## Comando estelar (Oscilador) 
 
 *Esta placa utiliza 2 chip para general oscilaciones que alteran a través de potenciómetros que permiten cambiar tanto la frecuencia como la modulación del sonido.*
 
+(foto)
+
 ## Parla (Amplificador/Salida) 
 
 *Es un amplificador de señal que permite escuchar las oscilaciones del módulo anterior con mayor volumen.*
+
+(foto)
 
 
 -------------
@@ -185,7 +193,7 @@ Nuestro sintetizador está formado de 4 módulos:
 
 ![test](./imagenes/procesos-largo.png)
 
-![test gif-1](./imagenes/corte-laser-1.gif) ㅤㅤㅤㅤㅤㅤㅤ ![test gif-2](./imagenes/grito-test-medio.gif)
+![test gif-1](./imagenes/corte-laser-1.gif) ㅤㅤㅤㅤㅤㅤ ![test gif-2](./imagenes/grito-test-medio.gif)
 
 ### Para tener un flujo de trabajo más ordenado pusimos todos los componentes necesarios para armar una placa de lado. 
 
@@ -235,19 +243,25 @@ Nuestro sintetizador está formado de 4 módulos:
 
 ### Referentes carcasa 
 
-Para la carcasa usamos estos 3 ejemplos:
+*Para la carcasa usamos estos 3 ejemplos:*
 
-> **CMF Phone - Nothing (Nothing, 2024)**
+> ### **CMF Phone - Nothing (Nothing, 2024)**
 >
-> Este dispositivo también utiliza módulos al igual que nuestro sistema. 
+> Este dispositivo también utiliza módulos al igual que nuestro sistema.
 >
-> **microKorg Crystal - Korg (KORG, 2022)**
+> ![nothing](./imagenes/phone-1.png)
 >
-> Siendo un sintetizador nos llamó la atención que también use carcasa transparente. 
+> ### **microKorg Crystal - Korg (KORG, 2022)**
 >
-> **Gameboy transparente - Nintendo (Amo, 2011)**
+> Siendo un sintetizador nos llamó la atención que también use carcasa transparente.
 >
-> Al igual que el microKorg Crystal, utiliza una carcasa transparente, permitiendo observar el interior. 
+> ![korg](./imagenes/korg-1.png)
+>
+> ### **Gameboy transparente - Nintendo (Amo, 2011)**
+>
+> Al igual que el microKorg Crystal, utiliza una carcasa transparente, permitiendo observar el interior.
+>
+> ![gameboy](./imagenes/gameboy-1.png)
 >
 > *Utilizamos estos referentes como inspiración para llegar al resultado de las placas, combinando las características que se reflejan en nuestros conceptos.*
 > 
@@ -316,9 +330,9 @@ WhiteSample, & Cargo Collective. (2012, 01 04). Live at Mutek_CL. <https://vimeo
 
 placas usadas:
 
-- placa 01: piezo, diseñada por grupo 01
-- placa 02: secuenciador, diseñada por grupo 02
-- placa 03: oscilador, diseñada por grupo 03
+- placa 01: piezo 01, diseñada por grupo 01
+- placa 02: secuenciador 02, diseñada por grupo 02
+- placa 03: oscilador 01, diseñada por grupo 03
 
 explicación de flujo de señal de audio:
 
@@ -330,7 +344,7 @@ ordenado a grandes rasgos gesto humano a fuentes de tiempo, a secuenciador, a os
 
 estado de construcción:
 - placa 01: no funciona, la entrada original del piezo no es funcional, si uno se conecta al otro audiojack se prenden LEDs. los potenciometros controlan la intensidad de la luz y bloquean al piezo.
-- placa 02: no funciona, las LEDs no se prenden junto a los steps (el grupo del secuenciador nos contó que tambíen encontraron este error en la protoboard y que no affecta realmente el funcionamiento de los steps). 
+- placa 02: notamos que ambos pines de RST están unidos GND y consecuentemente a todas las salidas/entradas de la placa. sospechamos que esto es lo que hace que la placa no funcione correctamente. como solución tenemos usar una easy PCB. queremos soldar un circuito común usando el 4017.
 - placa 03: funcionan algunos, los de los costados suenan correctamente, el del medio tiene más problemas. nos dimos cuenta que pusimos mal una cama/zapato y que usamos un chip distinto al resto. ahora estamos soldando los componentes nuevamente con el chip correcto.
 
 ayudas eléctricas que necesitamos domingo:
@@ -345,4 +359,18 @@ ayuda audio que necesitamos domingo:
 
 materiales faltantes:
 
-- chip 4046 40106 para grito (para tener a mano por si algo se quemara)
+- chips 4046/40106 para Comando estelar (para tener a mano por si algo se quemara)
+
+- El chip 386 permite amplificar y segun lo que entendo estoy buscando estrategias de como mutear y dicen que la patiata 7 sirve para eso si le ponenun switch y patita 7 a tierra = se mute, no es p¿erfecto pq se escucha unpopo perp se mutea, malan con mati 386 entra osciladores y piezo que contrpole esa patita de mutear  
+
+ -------
+
+Como mutear 386? 
+
+ 
+
+https://hackaday.com/2016/12/07/you-can-have-my-lm386s-when-you-pry-them-from-my-cold-dead-hands/ 
+
+ 
+
+MISAAAAAAA AYUDA tengo una idea! Eureka! Pin 7 en GND = mute allegedly. Si hacemos que el piezo se conecte a VCC y GND. funciona “mal” y la señal choca con GND sino me equivoco. Si conectamos en piezo así y logramos invertir la señal, podria ser: golpe = sonido/vcc - no golpe = mute/GND 
