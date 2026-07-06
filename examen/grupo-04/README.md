@@ -87,7 +87,7 @@ Recibe la señal eléctrica enviada por el oscilador y la convierte en ondas son
 | Diodo 1N5819 | 2 | $586 | [cl.rsdelivers.com](https://cl.rsdelivers.com/product/nexperia/bat85113/nexperia-diodo-bat85113-diodo-schottky-200-ma-30-v/0300978) |
 | Transistor 2N2222 | 1 | $200 | [mechatronicstore.cl](https://www.mechatronicstore.cl/transistor-2n2222/) |
 | Potenciómetro B10K | 1 | $495 | [altronics.cl](https://altronics.cl/potenciometro-lineal-10k-b10k) |
-| Potenciómetro B500K | 1 | $495 | [altronics.cl(https://altronics.cl/potenciometro-lineal-500k-b500k?search=b500k) |
+| Potenciómetro B500K | 1 | $495 | [altronics.c](https://altronics.cl/potenciometro-lineal-500k-b500k?search=b500k) |
 | LED 3mm | 3 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/led-3mm-5mm/) |
 | Resistencia 47 Ω | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
 | Resistencia 100 Ω | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
@@ -104,7 +104,7 @@ Recibe la señal eléctrica enviada por el oscilador y la convierte en ondas son
 | Condensador polarizado 10 µF | 2 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/) |
 | Condensador polarizado 100 µF | 3 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/) |
 | Piezo | 1 | $990 | [mechatronicstore.cl](https://www.mechatronicstore.cl/sensor-piezoelectrico-27mm-con-cable/) |
-| Cables dupont 40 uni. | 1 | $2.990 | [/mcielectronics.cl](https://mcielectronics.cl/shop/product/cable-dupont-macho-macho-20cm-pack-40-unidades-2/) |
+| Cables dupont 40 uni. | 1 | $2.990 | [mcielectronics.cl](https://mcielectronics.cl/shop/product/cable-dupont-macho-macho-20cm-pack-40-unidades-2/) |
 | Batería 9V recargable | 1 | $7.990 | [sodimac.cl](https://www.sodimac.cl/sodimac-cl/articulo/110251085/bateria-recargable-9v/110251089) |
 | Interruptor Switch | 1 | $570 | [katode.cl](https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html?srsltid=AfmBOorJIleUySzAORFwXSattHKE4BKH2LmhhXZS_8fZ4MW-G6kwnxqA) |
 
@@ -135,7 +135,7 @@ Este proceso de soldadura, lo comenzamos el 16 de Junio del 2026, a las 9:00 am 
 - Miércoles 01 de julio: 11:00  -  21:00. **10 horas.**
 - Jueves 02 de julio: 11:00 - 18:00. **7 horas.**
 - Viernes 03 de julio: 11:00 - 21:00. **10 horas**
-- Domingo 05 de julio: 
+- Domingo 05 de julio: 11:00 - 5:40.  **5 horas 40 min.**
 
 El tiempo de trabajo y soldadura fue de aproximadamente de **42 horas y media.** _(hasta el momento)_
 
@@ -160,6 +160,12 @@ Tuvimos en cuenta que la utilización de cables para las conexiones entre placas
 Dentro de la inspiración para la realización de estas formas tenemos como referencia la metalistería arquitectónica del Art Nouveau, la cual exhibía formas inspiradas en las curvas sinuosas de la naturaleza, como flores y tallos. Una de las expresiones características de este movimiento fue la utilización de hierro forjado en los edificios para la fabricación de vallas, rejas, balcones decorativos, barandas de escaleras y elementos metálicos en los trabajos de interiorismo. Podemos observar diversos tipos de abstracciones desde el auge del movimiento hasta formas más simples se han mantenido hasta el día de hoy.
 
 ![Art Nouveau](./imagenes/referente2.png)
+
+Otros referentes que nos ayudaron en la composición del sistema e interacción son los siguientes:
+
+- **Yonhosago:** banda conformada en 1999 por alumnos de la universidad Católica donde podemos encontrar guitarras, eléctrica y clásica a la vez, era una banda vanguardista para la época, experimental para otros. 
+
+- **Wave:** obra de Alexey Kochetkov (artista alemán) en su proyecto 5 String Theory que se inspira en los principios de la generación y procesamiento de sonido propios de los sintetizadores. Aquí el violín se presenta como un oscilador, modelando por capas de efectos para generar texturas electrónicas. [Wave](https://www.youtube.com/watch?v=-chFKYEPqYw&list=RD-chFKYEPqYw&start_radio=1 ) 
 
 ## Composición
 
@@ -194,25 +200,20 @@ Así que ahora acércate a la artista de las cuerdas, y vuélvanse uno; mueve la
 
 4. Y así funcionan diversas naturalezas…, se entretejen y se convierten en una sola.
 
-## REPORTE DE ESTADO
+## Fotografías
 
-placas usadas:
+![foto1](imagenes/foto1.png)
+![foto 2](imagenes/foto2.png)
+![foto 3](imagenes/foto3.png)
+![foto 4](imagenes/foto4.png)
+![foto 5](imagenes/foto5.png)
+![foto 6](imagenes/foto6.png)
 
-\- placa 01: Chirihue, grupo 4  
-\- placa 02: Maica (piezo) grupo 1  
-\- placa 03: Parla  
-\-EXTRA: comunicaciones espaciales
+## Conclusión
 
-estado de construcción:  
-\- placa 01: Hemos realizado 3, la primera sonaba pero no oscila, pero se quemo. La segunda oscilaba pero no sonaba como deseamos y quisimos probar con una tercera.   
-\- placa 02: No sabemos si funciona, estamos esperando que el grupo 1 lo realice con los cambios que pueden servir.   
-\- placa 03: No sabemos si funciona, esperando respuesta de profesores.   
-EXTRA: funciona. 
+En proceso
 
-ayudas eléctricas que necesitamos domingo:
 
-\- Queremos poder resolver la placa 1, pero si no, que opciones tenemos. Si no funciona ninguna de las placas \-chirihue y maica- se nos cae toda nuestra propuesta. A nadie le ha funcionado el chirihue y tampoco el piezo. Tenemos en protoboard el chirihue que funciona.   
-\-Que hacer si nada funciona. 
 
 
 ## Bibliografía
