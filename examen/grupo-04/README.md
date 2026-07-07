@@ -6,7 +6,7 @@
 - Santiago Cifuentes Vélez / [@santiagocifuvelez](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/08-santiagocifuvelez)
 - Paula Fuentes Mena / [@paulafuentesm](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/12-paulafuentesm)
 - Kristel Ladrón de Guevara Jara / [@kristelagj](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/16-kristelagj)
-- Catalina Anatonia Oyanedel Sanchez / [@catalinaoyanedel-01](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/22-catalinaoyanedel-01)
+- Catalina Antonia Oyanedel Sanchez / [@catalinaoyanedel-01](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/22-catalinaoyanedel-01)
 - Yaira Alexandra Ruiz Ossandón / [@yairaruiz](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/28-yairaruiz)
 
 ## Criterios de diseño del sistema
@@ -19,7 +19,7 @@ A partir de estas definiciones, entendemos que los componentes artificiales y te
 
 ![elementos](./imagenes/elementos.png)
 
-Finalmente, el concepto que engloba nuestra investigación es la **simpoiesis.** Este sostiene que ningún ser, sistema o creación se produce o se sostiene a sí mismo en solitario, sino mediante redes de colaboración mutua, por esto planteamos que nada trabaja de manera solitaria, todos los elementos tiene una relación y se retroalimentan mutuamente. 
+Finalmente, el concepto que engloba nuestra investigación es la **simpoiesis.** Este sostiene que ningún ser, sistema o creación se produce o se sostiene a sí mismo en solitario, sino mediante redes de colaboración mutua, por esto planteamos que nada trabaja de manera solitaria, todos los elementos tienen una relación y se retroalimentan mutuamente. 
 
 _“En el centro de este mundo que se deshilacha, la interdependencia permanece. Lo vivo y lo no vivo están tejidos en una trama que se modifica a cada instante.” Jorgelina Sannazzaro³_
 
@@ -31,7 +31,7 @@ Tenemos el computador como un principal antecedente en la música electroacústi
 
 El desarrollo y la evolución de este mundo llevó a pasar de los generadores analógicos de onda y grabadores de cinta al computador, reemplazando a la gran mayoría de los antiguos equipos, si no a todos. 
 
-A pesar de eso, en el contexto de este taller partimos desde la base de la historia, sin utilizar computadores, sino circuitos analógicos para producir nuestros propios sintetizadores. En ¿Qué es la música electrónica? de Gustavo Becerra (otro importante exponente) escrito en 1957, él responde ante las dudas de este nuevo fenómeno: quienes tocan este tipo música pueden considerarse ejecutantes, pero éstos no tocan ningún instrumento tradicional en el cumplimiento de sus funciones. Operan osciladores de audiofrecuencia y equipos grabadores de cinta magnética.⁵ 
+A pesar de eso, en el contexto de este taller partimos desde la base de la historia, sin utilizar computadores, sino circuitos analógicos para producir nuestros propios sintetizadores. En ¿Qué es la música electrónica? de Gustavo Becerra (otro importante exponente) escrito en 1957, él responde ante las dudas de este nuevo fenómeno: quienes tocan este tipo de música pueden considerarse ejecutantes, pero éstos no tocan ningún instrumento tradicional en el cumplimiento de sus funciones. Operan osciladores de audiofrecuencia y equipos grabadores de cinta magnética.⁵ 
 
 Por lo tanto, para encontrar los componentes para generar nuestros propios circuitos nos adentramos principalmente en la calle San Diego, que cuenta con una gran variedad de tiendas y disponibilidad de componentes electrónicos, siendo algunas de ellas Victronics, Orfali y Electrónica Ibarra.
 _________________________________________________________________________
@@ -39,15 +39,15 @@ _________________________________________________________________________
 # Naturalezas Interconectadas: Pieza Final
 ## Placas soldadas
 
-- **Piezo:** Maicra
+- **Piezo:** Maincra
 - **Oscilador:** Chirihue mecanizado
 - **Parlante:** Parla
 
 ### Principio de funcionamiento de cada una
 
-**Maicra:**
+**Maincra:**
 
-El piezo es un componente que convierte la presión o vibración mecánica en señales eléctricas que luego alimentarán y afectarán el circuito complementario (la demás placas). En nuestro caso, lo conectamos a una viola para generar las vibraciones que luego convertirá. Este módulo nos permite transformar un sonido, convirtiéndolo en una señal que avanzará en nuestro oscilador.
+El piezo es un componente que convierte la presión o vibración mecánica en señales eléctricas que luego alimentarán y afectarán el circuito complementario (las demás placas). En nuestro caso, lo conectamos a una viola para generar las vibraciones que luego convertirá. Este módulo nos permite transformar un sonido, convirtiéndolo en una señal que avanzará en nuestro oscilador.
 
 **Chirihue Mecanizado:**
 
@@ -61,11 +61,11 @@ Convierte señales eléctricas en ondas de sonido enviadas desde el chirihue. Su
 
 | Módulo | ¿Qué recibe? | ¿Qué entrega? |
 | :--- | :--- | :--- |
-| **Maicra (Piezo)** | Vibraciones mecánicas provenientes de la viola. Instrumento tocado por Kriss. | Una **señal eléctrica analógica** (resultado de tocar la viola) de bajo voltaje que representa esas vibraciones. (y esta señal, nos dará "la vida", para que el synthe funcione). |
+| **Maincra (Piezo)** | Vibraciones mecánicas provenientes de la viola. Instrumento tocado por Kriss. | Una **señal eléctrica analógica** (resultado de tocar la viola) de bajo voltaje que representa esas vibraciones. (y esta señal, nos dará "la vida", para que el synthe funcione). |
 | **Chirihue mecanizado (Oscilador)** | La señal eléctrica proveniente del piezo (o la alimentación, dependiendo de cómo esté conectado el circuito). | Una **señal eléctrica oscilante** (onda cuadrada que se transforma a medida que movemos los potenciómetros) que genera el sonido característico del sintetizador, es decir, el sonido del chirihue. |
 | **Parla (Parlante)** | La señal eléctrica del oscilador. | **Ondas sonoras**, es decir, el sonido que finalmente escucha el espectador. |
 
-**Maicra:**
+**Maincra:**
 Recibe las vibraciones mecánicas generadas por la viola y las transforma en una señal eléctrica analógica que alimenta el resto del sistema.
 
 **Chirihue mecanizado:**
@@ -87,7 +87,7 @@ Recibe la señal eléctrica enviada por el oscilador y la convierte en ondas son
 | Diodo 1N5819 | 2 | $586 | [cl.rsdelivers.com](https://cl.rsdelivers.com/product/nexperia/bat85113/nexperia-diodo-bat85113-diodo-schottky-200-ma-30-v/0300978) |
 | Transistor 2N2222 | 1 | $200 | [mechatronicstore.cl](https://www.mechatronicstore.cl/transistor-2n2222/) |
 | Potenciómetro B10K | 1 | $495 | [altronics.cl](https://altronics.cl/potenciometro-lineal-10k-b10k) |
-| Potenciómetro B500K | 1 | $495 | [altronics.c](https://altronics.cl/potenciometro-lineal-500k-b500k?search=b500k) |
+| Potenciómetro B500K | 1 | $495 | [altronics.cl](https://altronics.cl/potenciometro-lineal-500k-b500k?search=b500k) |
 | LED 3mm | 3 | $100 | [mechatronicstore.cl](https://www.mechatronicstore.cl/led-3mm-5mm/) |
 | Resistencia 47 Ω | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
 | Resistencia 100 Ω | 1 | $90 | [electroardu.cl](https://www.electroardu.cl/resistencias-1-k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt) |
@@ -125,7 +125,7 @@ Recibe la señal eléctrica enviada por el oscilador y la convierte en ondas son
 | Conector de alimentación | 1 | $148 | AliExpress |
 
 ### Tiempo de trabajo y soldadura: 
-Este proceso de soldadura, lo comenzamos el 16 de Junio del 2026, a las 9:00 am durante la clase, la cual dura 4 horas, y así fueron nuestros días de reunión y el tiempo dedicado en ellos a soldar: 
+Este proceso de soldadura, lo comenzamos el 16 de junio del 2026, a las 9:00 am durante la clase, la cual dura 4 horas, y así fueron nuestros días de reunión y el tiempo dedicado en ellos a soldar: 
 
 - Martes 16 de junio: 9:00am - 13:00. **4 horas**
 - Viernes 19 de junio (presentación pre-examen). No se soldó.
@@ -163,7 +163,7 @@ Dentro de la inspiración para la realización de estas formas tenemos como refe
 
 Otros referentes que nos ayudaron en la composición del sistema e interacción son los siguientes:
 
-- **Yonhosago:** banda conformada en 1999 por alumnos de la universidad Católica donde podemos encontrar guitarras, eléctrica y clásica a la vez, era una banda vanguardista para la época, experimental para otros. 
+- **Yonhosago:** banda conformada en 1999 por alumnos de la Universidad Católica donde podemos encontrar guitarras, eléctrica y clásica a la vez, era una banda vanguardista para la época, experimental para otros. 
 
 - **Wave:** obra de Alexey Kochetkov (artista alemán) en su proyecto 5 String Theory que se inspira en los principios de la generación y procesamiento de sonido propios de los sintetizadores. Aquí el violín se presenta como un oscilador, modelando por capas de efectos para generar texturas electrónicas. [Wave](https://www.youtube.com/watch?v=-chFKYEPqYw&list=RD-chFKYEPqYw&start_radio=1 ) 
 
@@ -194,9 +194,9 @@ Ahora es el turno de devolver este impulso de fuerza y vida…, el chirihue meca
 1. Primero vamos a intentar ver la melodía de las cuerdas de la viola, y vamos a ser testigos de cómo cada señal emitida por esta, dará la vida al chirihue para que entone su canto.
 
 2. El chirihue está cantando, ¡ESTÁ VIVO!, pero te necesita a ti, quien le escucha, pues él en su canto reconoce que hay más melodías por entonar…, pero no puede hacerlo sin ti:
-Así que ahora acércate a la artista de las cuerdas, y vuélvanse uno; mueve las perillas de los potenciómetros, y escuchemos el cantó de aquel pequeño mecanizado volver a la vida.
+Así que ahora acércate a la artista de las cuerdas, y vuélvanse uno; mueve las perillas de los potenciómetros, y escuchemos el canto de aquel pequeño mecanizado volver a la vida.
 
-3. Gracias a ti, y tu buena bondad, la voz de los más pequeños se hace grande. Escucha, y sorprendete como si de riñihue se tratara. 
+3. Gracias a ti, y tu buena bondad, la voz de los más pequeños se hace grande. Escucha, y sorpréndete como si de riñihue se tratara. 
 
 4. Y así funcionan diversas naturalezas…, se entretejen y se convierten en una sola.
 
