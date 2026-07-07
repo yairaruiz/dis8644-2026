@@ -221,6 +221,9 @@ Este proceso ha estado lleno de altos y bajos, partimos con una idea muy clara r
 ![procesos](./imagenes/procesos.png)
 ![grupo](./imagenes/fotogrupo.png)
 
+
+[Video demostración](https://youtu.be/NLv0oETwqRE?si=5mypMqwWQKeOK91i)
+
 ## Bibliografía
 
 **Criterios de diseño del sistema**
