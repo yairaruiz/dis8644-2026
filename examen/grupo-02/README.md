@@ -16,18 +16,20 @@ El objetivo fue transformar un conjunto de módulos desarrollados por distintos 
 
 Para lograrlo construimos y conectamos todos los módulos, definiendo la forma en que se comunican entre sí para coordinar la generación de ritmos y sonidos. También adaptamos los controles para incorporar sensores de luz e integramos todas las salidas de audio en un único sistema de reproducción. Durante el desarrollo resolvimos distintos desafíos de integración y funcionamiento hasta obtener un instrumento estable y completamente operativo.
 
+
+
+
 ## Referentes
 
 | Enlace | Imagen |
 |--------|--------|
 | [https://www.lovehulten.com/](https://www.lovehulten.com/) | ![Imagen](./imagenes/love-hulten-00.jpg) |
-| [My First Modular by Oficina de Sonido](https://www.kickstarter.com/projects/oficinadesonido/1007031649) | ![Imagen](./imagenes/oficina-sonido.jpg) |
-| [https://github.com/misaaaaaa/ritmo_etc](https://github.com/misaaaaaa/ritmo_etc) | ![Imagen](./imagenes/ritmo-etc.jpg) |
-| [https://www.morelmusiq.de/news-horizon-1-1](https://www.morelmusiq.de/news-horizon-1-1) | ![Imagen](./imagenes/morelmusiq.jpg) |
-| [https://proyectosonec.org/artista/monica-bate/](https://proyectosonec.org/artista/monica-bate/) | ![Imagen](./imagenes/monica-bate.jpg) |
-| [https://uchile.cl/noticias/202394/en-atenas-se-presentaran-obras-del-nucleo-sonoro-del-dav](https://uchile.cl/noticias/202394/en-atenas-se-presentaran-obras-del-nucleo-sonoro-del-dav) | ![Imagen](./imagenes/dav.jpg) |
-| [https://uchile.cl/noticias/223150/discom-tr-de-lucas-soffia-arte-sonido-y-experimentacion-mecanica](https://uchile.cl/noticias/223150/discom-tr-de-lucas-soffia-arte-sonido-y-experimentacion-mecanica) | ![Imagen](./imagenes/lucas-soffia.jpg) |
-
+| [My First Modular by Oficina de Sonido](https://www.kickstarter.com/projects/oficinadesonido/1007031649) | ![Imagen](./imagenes/my-first-modular.avif) |
+| [https://github.com/misaaaaaa/ritmo_etc](https://github.com/misaaaaaa/ritmo_etc) | ![Imagen](./imagenes/ref-00.png) |
+| [https://www.morelmusiq.de/news-horizon-1-1](https://www.morelmusiq.de/news-horizon-1-1) | ![Imagen](./imagenes/ref-02.png) |
+| [https://proyectosonec.org/artista/monica-bate/](https://proyectosonec.org/artista/monica-bate/) | ![Imagen](./imagenes/monicabate.jpg) |
+| [https://uchile.cl/noticias/202394/en-atenas-se-presentaran-obras-del-nucleo-sonoro-del-dav](https://uchile.cl/noticias/202394/en-atenas-se-presentaran-obras-del-nucleo-sonoro-del-dav) | ![Imagen](./imagenes/bulla.jpg) |
+| [https://uchile.cl/noticias/223150/discom-tr-de-lucas-soffia-arte-sonido-y-experimentacion-mecanica](https://uchile.cl/noticias/223150/discom-tr-de-lucas-soffia-arte-sonido-y-experimentacion-mecanica) | ![Imagen](./imagenes/discom-tr.jpg) |
 
 ## Cultura de los sintetizadores en Chile
 
@@ -241,15 +243,6 @@ Cada módulo cumple una función específica dentro del sistema. El reloj genera
 
 Esta estructura modular facilita la comprensión del funcionamiento del instrumento, permite reemplazar o modificar módulos individuales y hace posible futuras ampliaciones del sistema.
 
-## Constructivo
-
-| Enlace | Imagen |
-|--------|--------|
-| [Orchid – Love Hultén](https://www.lovehulten.com/orchid) | ![Imagen](./imagenes/orchid.jpg) |
-| [Ryk – Love Hultén](https://www.lovehulten.com/ryk) | ![Imagen](./imagenes/ryk.jpg) |
-| [https://www.yankodesign.com/2023/01/24/this-strange-looking-plant-box-uses-science-to-create-eerie-music/](https://www.yankodesign.com/2023/01/24/this-strange-looking-plant-box-uses-science-to-create-eerie-music/) | ![Imagen](./imagenes/yankodesign.jpg) |
-| [https://www.matrixsynth.com/2013/04/folktek-feedscape-one-of-kind-hand-made.html?m=1](https://www.matrixsynth.com/2013/04/folktek-feedscape-one-of-kind-hand-made.html?m=1) | ![Imagen](./imagenes/folktek-feedscape.jpg) |
-
 ## placas soldadas
 
 Reloj / Docentes: *Relo* 
@@ -282,9 +275,9 @@ Percusión 02 / Grupo 06: *Barry Benson*
 
 ## Tiempo de soldadura
 
-| Proceso | Integrantes | Duración | Horas por integrante | Total equipo |
+| Proceso | Integrantes | Duración | Total equipo |
 |----------|:-----------:|:--------:|----------------------:|-------------:|
-| Soldadura, corrección de errores y soluciones de todas las PCB | 5 | 3 semanas | 120 hrs | 120 hrs × 5 = 600 h |
+| Soldadura, corrección de errores y soluciones de todas las PCB | 5 | 3 semanas | 120 hrs | 
 
 ## BOM (Bill Of Materials)
 
@@ -513,14 +506,13 @@ Percusión 02 / Grupo 06: *Barry Benson*
 
 Nuestra carcasa consta de 2 estructuras principales, una interna que soporta las PCB y sus conexiones modulares, además de una externa que encapsula todo lo anterior. 
 
-
 ### Materialidad
 
 | Material / Proveedor | Imagen |
 |----------------------|--------|
-| [Acrilico](https://www.acryl.cl/) | ![Imagen](./imagenes/acryl.jpg) |
-|[ Terciado eucaliptus rosado 3 mm 1.44 × 2.20 m ](https://www.imperial.cl/terciados/terciado-eucaliptus-rosado-3mm-144x220mt/product/104758)| ![Imagen](./imagenes/terciado-eucalipto.jpg) |
-| [Filamento PLA Gris](https://www.todotoner.cl/impresoras/impresoras-3d/filamentos/pla-gris-1kg-todotoner)  \| TodoToner.cl | ![Imagen](./imagenes/pla-gris.jpg) |
+| [Acrilico](https://www.acryl.cl/) | ![Imagen](./imagenes/acrilico.png) |
+|[ Terciado eucaliptus rosado 3 mm 1.44 × 2.20 m ](https://www.imperial.cl/terciados/terciado-eucaliptus-rosado-3mm-144x220mt/product/104758)| ![Imagen](./imagenes/terciado.png) |
+| [Filamento PLA Gris](https://www.todotoner.cl/impresoras/impresoras-3d/filamentos/pla-gris-1kg-todotoner)  \| TodoToner.cl | ![Imagen](./imagenes/filamento.png) |
 
 Los materiales vistos en la tabla se utlizaron porque responden a una desición de diseño importante. **La rapidez de fabricación**. Esto se debe a la cantidad de horas que requiere la construcción de los módulos (algo que se puede apreciar en la tabla que contabiliza la cantidad de horas)
 
@@ -528,8 +520,7 @@ Para enfocarnos en lo anterior mencionado, se prefirió optimizar procesos y por
 
 Esto significó tener las piezas necesarias para la carcasa en menos de 3 horas. Lo que obviamento nos ayudó a dedicarle más tiempo a la fabricación de nuestro sintetizador
 
-
-
+![referente](./imagenes/ref-03.jpg) 
 
 ---
 
@@ -553,29 +544,50 @@ Esto significó tener las piezas necesarias para la carcasa en menos de 3 horas.
 
 | Proceso 17 | Proceso 18 | Proceso 19 | Proceso 20 |
 |------------|------------|------------|------------|
-| ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso18](./imagenes/pr-18.jpeg) | ![Proceso19](./imagenes/pr-19.jpeg) | ![Proceso20](./imagenes/pr-20.jpeg) |
+| ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso18](./imagenes/pr-18.jpeg) | ![Proceso19](./imagenes/pr-19.png) | ![Proceso20](./imagenes/pr-27.jpg) |
 
 | Proceso 21 | Proceso 22 | Proceso 23 | Proceso 24 |
 |------------|------------|------------|------------|
 | ![Proceso21](./imagenes/pr-21.jpeg) | ![Proceso22](./imagenes/pr-22.jpeg) | ![Proceso23](./imagenes/pr-23.jpeg) | ![Proceso24](./imagenes/pr-24.jpeg) |
 
-| Proceso 25 | Proceso 26 | Proceso 27 | Proceso 24 |
+| Proceso 25 | Proceso 26 | Proceso 27 | Proceso 28 |
 |------------|------------|------------|------------|
-| ![Proceso25](./imagenes/pr-25.jpeg) | ![Proceso26](./imagenes/pr-26.jpeg) | ![Proceso27](./imagenes/pr-27.jpeg) |![Proceso28](./imagenes/pr-28.jpeg) |
+| ![Proceso25](./imagenes/pr-25.jpg) | ![Proceso26](./imagenes/pr-26.jpg) | ![Proceso27](./imagenes/pr-27.jpeg) |![Proceso28](./imagenes/pr-24.jpeg) |
+
+| Proceso 20 | Proceso 30 | Proceso 31 | Proceso 32 |
+|------------|------------|------------|------------|
+| ![Proceso220](./imagenes/esquema-rele.jpeg) | ![Proceso26](./imagenes/mixer.jpeg) | ![Proceso27](./imagenes/placas-soldadas.jpeg) |![Proceso28](./imagenes/parlante.jpeg) |
 
 
 ---
 
+| **Video 1** | **Video 2** | **Video 3** |
+|:-----------:|:-----------:|:-----------:|
+| [![Video 1](https://img.youtube.com/vi/xmAeycriXIo/hqdefault.jpg)](https://youtu.be/xmAeycriXIo) | [![Video 2](https://img.youtube.com/vi/YzIqSBv51P0/hqdefault.jpg)](https://youtu.be/YzIqSBv51P0) | [![Video 3](https://img.youtube.com/vi/HpgnCTo0Enk/hqdefault.jpg)](https://youtu.be/HpgnCTo0Enk) |
 
-| Video 1 | Video 2 | Video 3 |
-|:-------:|:-------:|:-------:|
-| [![Video 1](https://img.youtube.com/vi/JmE9NbwjoMs/hqdefault.jpg)](https://youtube.com/shorts/JmE9NbwjoMs) | [![Video 2](https://img.youtube.com/vi/Sk7TLUBUIL0/hqdefault.jpg)](https://youtube.com/shorts/Sk7TLUBUIL0) | [![Video 3](https://img.youtube.com/vi/-w2bnB7ahFI/hqdefault.jpg)](https://youtube.com/shorts/-w2bnB7ahFI) |
 | **Video 4** | **Video 5** | **Video 6** |
-| [![Video 4](https://img.youtube.com/vi/Z8LjF2_bu-w/hqdefault.jpg)](https://youtube.com/shorts/Z8LjF2_bu-w) | [![Video 5](https://img.youtube.com/vi/l9U1S9-KGVk/hqdefault.jpg)](https://youtube.com/shorts/l9U1S9-KGVk) | [![Video 6](https://img.youtube.com/vi/rXEYtkrxyr4/hqdefault.jpg)](https://youtube.com/shorts/rXEYtkrxyr4) |
+|:-----------:|:-----------:|:-----------:|
+| [![Video 4](https://img.youtube.com/vi/JmE9NbwjoMs/hqdefault.jpg)](https://youtube.com/shorts/JmE9NbwjoMs) | [![Video 5](https://img.youtube.com/vi/Sk7TLUBUIL0/hqdefault.jpg)](https://youtube.com/shorts/Sk7TLUBUIL0) | [![Video 6](https://img.youtube.com/vi/-w2bnB7ahFI/hqdefault.jpg)](https://youtube.com/shorts/-w2bnB7ahFI) |
+
 | **Video 7** | **Video 8** | **Video 9** |
-| [![Video 7](https://img.youtube.com/vi/mTNN9lAFyIs/hqdefault.jpg)](https://youtube.com/shorts/mTNN9lAFyIs) | [![Video 8](https://img.youtube.com/vi/chz79BSDsxw/hqdefault.jpg)](https://youtube.com/shorts/chz79BSDsxw) | [![Video 9](https://img.youtube.com/vi/vpFVOLXRS30/hqdefault.jpg)](https://youtube.com/shorts/vpFVOLXRS30) |
-| **Video 10** | **Video 11** | **Video 12** |
-| [![Video 10](https://img.youtube.com/vi/bo8u3_Ju_fE/hqdefault.jpg)](https://youtube.com/shorts/bo8u3_Ju_fE) | [![Video 11](https://img.youtube.com/vi/CvPNiDL23gA/hqdefault.jpg)](https://youtube.com/shorts/CvPNiDL23gA) | [![Video 12](https://img.youtube.com/vi/T8TXoX9cu-E/hqdefault.jpg)](https://youtube.com/shorts/T8TXoX9cu-E) |
+|:-----------:|:-----------:|:-----------:|
+| [![Video 7](https://img.youtube.com/vi/Z8LjF2_bu-w/hqdefault.jpg)](https://youtube.com/shorts/Z8LjF2_bu-w) | [![Video 8](https://img.youtube.com/vi/l9U1S9-KGVk/hqdefault.jpg)](https://youtube.com/shorts/l9U1S9-KGVk) | [![Video 9](https://img.youtube.com/vi/rXEYtkrxyr4/hqdefault.jpg)](https://youtube.com/shorts/rXEYtkrxyr4) |
+
+| **Video 10** | **Video 11** |
+|:-----------:|:-----------:|
+| [![Video 10](https://img.youtube.com/vi/mTNN9lAFyIs/hqdefault.jpg)](https://youtube.com/shorts/mTNN9lAFyIs) | [![Video 12](https://img.youtube.com/vi/vpFVOLXRS30/hqdefault.jpg)](https://youtube.com/shorts/vpFVOLXRS30) |
+
+| **Video 13** | **Video 14** | **Video 15** |
+|:-----------:|:-----------:|:-----------:|
+| [![Video 13](https://img.youtube.com/vi/bo8u3_Ju_fE/hqdefault.jpg)](https://youtube.com/shorts/bo8u3_Ju_fE) | [![Video 14](https://img.youtube.com/vi/CvPNiDL23gA/hqdefault.jpg)](https://youtube.com/shorts/CvPNiDL23gA) | [![Video 15](https://img.youtube.com/vi/T8TXoX9cu-E/hqdefault.jpg)](https://youtube.com/shorts/T8TXoX9cu-E) |
+
+| **Video 16** | **Video 17** | **Video 18** |
+|:-----------:|:-----------:|:-----------:|
+| [![Video 16](https://img.youtube.com/vi/IEccosttbZo/hqdefault.jpg)](https://youtu.be/IEccosttbZo) | [![Video 17](https://img.youtube.com/vi/x9obZZ_ijnc/hqdefault.jpg)](https://youtube.com/shorts/x9obZZ_ijnc) | [![Video 18](https://img.youtube.com/vi/ZA6rcsc92XE/hqdefault.jpg)](https://youtube.com/shorts/ZA6rcsc92XE) |
+
+| **Video 19** | **Video 20** | 
+|:-----------:|:-----------:|
+| [![Video 19](https://img.youtube.com/vi/VhZFXO9z3AM/hqdefault.jpg)](https://youtu.be/VhZFXO9z3AM) | [![Video 20](https://img.youtube.com/vi/TeZhuZnchr8/hqdefault.jpg)](https://youtu.be/TeZhuZnchr8) | 
 
 ---
 
