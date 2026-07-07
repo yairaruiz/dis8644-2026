@@ -12,20 +12,17 @@
 
 ~~Este proyecto consiste en el diseño y construcción de un instrumento musical modular e interactivo desarrollado a partir de siete placas electrónicas. Cada módulo cumple una función específica —generar el pulso, secuenciar eventos, producir sonidos o procesar la salida de audio— y, al integrarse, conforman un único sistema capaz de interpretar composiciones sonoras.
 
-# REFERENTES
+## Referentes
 
-| Referencia | Imagen |
-|------------|--------|
-| https://www.lovehulten.com/ | ![Love Hultén](./imagenes/) |
-| https://www.kickstarter.com/projects/oficinadesonido/my-first-modular | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
+| Enlace | Imagen |
+|--------|--------|
+| [https://www.lovehulten.com/](https://www.lovehulten.com/) | ![Imagen](./imagenes/lovehulten.jpg) |
+| [My First Modular by Oficina de Sonido](https://www.kickstarter.com/projects/oficinadesonido/1007031649) | ![Imagen](./imagenes/oficina-sonido.jpg) |
+| [https://github.com/misaaaaaa/ritmo_etc](https://github.com/misaaaaaa/ritmo_etc) | ![Imagen](./imagenes/ritmo-etc.jpg) |
+| [https://www.morelmusiq.de/news-horizon-1-1](https://www.morelmusiq.de/news-horizon-1-1) | ![Imagen](./imagenes/morelmusiq.jpg) |
+| [https://proyectosonec.org/artista/monica-bate/](https://proyectosonec.org/artista/monica-bate/) | ![Imagen](./imagenes/monica-bate.jpg) |
+| [https://uchile.cl/noticias/202394/en-atenas-se-presentaran-obras-del-nucleo-sonoro-del-dav](https://uchile.cl/noticias/202394/en-atenas-se-presentaran-obras-del-nucleo-sonoro-del-dav) | ![Imagen](./imagenes/dav.jpg) |
+| [https://uchile.cl/noticias/223150/discom-tr-de-lucas-soffia-arte-sonido-y-experimentacion-mecanica](https://uchile.cl/noticias/223150/discom-tr-de-lucas-soffia-arte-sonido-y-experimentacion-mecanica) | ![Imagen](./imagenes/lucas-soffia.jpg) |
 
 ## Placas usadas
 
@@ -174,20 +171,14 @@ El desarrollo del sistema se inspiró en proyectos de Misaa que exploran la crea
 
 Como referencia para la interacción, también se consideró **Botanika**, proyecto que utiliza sensores para transformar fenómenos físicos en sonido. Esta idea inspiró el uso de sensores LDR en nuestro instrumento, permitiendo controlar distintos parámetros mediante la luz en lugar de potenciómetros tradicionales.
 
-# CONSTRUCTIVO
+## Constructivo
 
-| Referencia | Imagen |
-|------------|--------|
-| https://www.matrixsynth.com/2013/04/folktek-feedscape-one-of-kind-hand-made.html?m=1 | ![Feedscape](./imagenes/) |
-| https://www.yankodesign.com/2023/01/24/this-strange-looking-plant-box-uses-science-to-create-eerie-music/ | ![Plant Box](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
+| Enlace | Imagen |
+|--------|--------|
+| [Orchid – Love Hultén](https://www.lovehulten.com/orchid) | ![Imagen](./imagenes/orchid.jpg) |
+| [Ryk – Love Hultén](https://www.lovehulten.com/ryk) | ![Imagen](./imagenes/ryk.jpg) |
+| [https://www.yankodesign.com/2023/01/24/this-strange-looking-plant-box-uses-science-to-create-eerie-music/](https://www.yankodesign.com/2023/01/24/this-strange-looking-plant-box-uses-science-to-create-eerie-music/) | ![Imagen](./imagenes/yankodesign.jpg) |
+| [https://www.matrixsynth.com/2013/04/folktek-feedscape-one-of-kind-hand-made.html?m=1](https://www.matrixsynth.com/2013/04/folktek-feedscape-one-of-kind-hand-made.html?m=1) | ![Imagen](./imagenes/folktek-feedscape.jpg) |
 
 ---
 
@@ -196,22 +187,6 @@ Como referencia para la interacción, también se consideró **Botanika**, proye
 El sistema fue construido considerando la disponibilidad de componentes electrónicos presentes en el mercado nacional. Se utilizaron circuitos integrados CMOS, componentes discretos y materiales de fácil acceso, permitiendo fabricar el instrumento sin depender de piezas especializadas difíciles de conseguir.
 
 Este enfoque sigue la filosofía presentada en **22machines**, priorizando la accesibilidad, la modularidad y la posibilidad de replicar el proyecto utilizando recursos disponibles en Chile.
-
-# MATERIALIDAD
-
-| Referencia | Imagen |
-|------------------------|--------|
-| https://www.acryl.cl/ | ![Acryl](./imagenes/) |
-| https://abingraf.cl/collections/planchas-de-acrilico/products/acrilico-mgraf-blanco-fundido-3-mm-liner-plastico-1-22-x-2-44-mts | ![Acrílico](./imagenes/) |
-| https://www.mundotransfer.cl/vinilo-de-corte-soft-cut-51-cm-ancho.html | ![Vinilo Soft Cut](./imagenes/) |
-| https://abingraf.cl/products/vinilo-de-corte-brillante-metamark-m4-0-61-mts | ![Metamark M4](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-|  | ![](./imagenes/) |
-
 
 ---
 
@@ -561,5 +536,20 @@ detallar operación de la partitura, como se creó, cuales fueron los referentes
 
 ---
 
-## bibliografía
+# Bibliografía
 
+- <https://www.lovehulten.com/>
+- <https://www.kickstarter.com/projects/oficinadesonido/my-first-modular>
+- <https://www.yankodesign.com/2023/01/24/this-strange-looking-plant-box-uses-science-to-create-eerie-music/>
+- <https://www.matrixsynth.com/2013/04/folktek-feedscape-one-of-kind-hand-made.html?m=1>
+- <https://www.acryl.cl/>
+- <https://abingraf.cl/collections/planchas-de-acrilico/products/acrilico-mgraf-blanco-fundido-3-mm-liner-plastico-1-22-x-2-44-mts>
+- <https://maderasimperio.cl/producto/terciado-eucaliptus-rosado-3-mm-144x220/>
+- <https://www.todotoner.cl/filamento-pla-gris-1kg-tod>
+- <https://proyectosonec.org/artista/monica-bate/>
+- <https://uchile.cl/noticias/202394/en-atenas-se-presentaran-obras-del-nucleo-sonoro-del-dav>
+- <https://uchile.cl/noticias/223150/discom-tr-de-lucas-soffia-arte-sonido-y-experimentacion-mecanica>
+- <https://gclab.cl/>
+- <https://makerfairesantiagodotcom1.wordpress.com/participantes/expositores-nacionales/pablo-palominos/>
+- <https://orionnetwork.cl/originario-scd/>
+- <https://pueblonuevo.cl/bios/polwor/>
