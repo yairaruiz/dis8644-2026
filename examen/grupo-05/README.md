@@ -321,8 +321,6 @@ Durante el proceso de ensamble y pruebas en el taller, el proyecto decantó en d
 
 **Flujo general del sistema:**
 
-[ Reloj ] ──► [ Secuenciador 4017 ] ──► [ Oscilador (Lub-dub) ] ──► [ Filtro Paso Bajo ] ──► [ Salida ]
-
 ## 3. Funcionamiento de las placas
 
 ### Placa 1: RELO 
@@ -347,7 +345,9 @@ Originalmente, nuestro plan era utilizar la PCB diseñada por el **Grupo 06 (Con
 ### Placa 4: Filtro
 
 
-## 4. Proceso de armado de cada placa (en detalle)
+## 4. Proceso de armado de cada placa, aprendizajes y complicaciones
+
+Explicar primer modulo
 
 #### Detalles del Funcionamiento Técnico
 
@@ -390,21 +390,39 @@ En resumen, este circuito recibe una señal de audio, elimina parte de las frecu
 
 ## carcasa
 
-## 6. Arquitectura Estructural de las Carcasas
+## 5. Arquitectura Estructural de las Carcasas
 
-La envoltura de nuestro instrumento trasciende la idea de ser un simple contenedor protector. Se concibe como un manifiesto formal y material cuya meta es resguardar, estructurar, revelar y comunicar de manera clara la trama electrónica que ocurre en su interior. En perfecta sincronía con nuestra metáfora de la Tierra y el Cielo (el meteorito y el telescopio), decidimos que el sistema final no habitara en una sola caja ciega, sino en **dos carcasas físicas diferenciadas** que dialogan entre sí a través del contraste de sus materiales y procesos de fabricación.
+La carcasa de nuestro instrumento trasciende la idea de ser un simple contenedor protector. Se concibe como un manifiesto formal y material cuya meta es resguardar, estructurar, revelar y comunicar de manera clara la trama electrónica que ocurre en su interior. En perfecta sincronía con nuestra metáfora de la Tierra y el Cielo (el meteorito y el telescopio), decidimos que el sistema final no habitara en una sola caja ciega, sino en **dos carcasas físicas diferenciadas** que dialogan entre sí a través del contraste de sus materiales y procesos de fabricación.
 
-### 6.1. La Geoda Lunar: Secuenciador y Oscilador (Construcción Manual)
+### Carcasa 1: Geoda 
 
-Esta unidad funciona como el "núcleo rítmico" y sonoro del sistema. Contiene dos placas interconectadas que operan de forma conjunta:
+Esta unidad funciona como el "núcleo rítmico" y sonoro del sistema. Contiene dos placas que operan de forma conjunta:
 * El módulo **Secuenciador** 
-* El módulo **Lub-Dub (Oscilador/Percutor, Grupo 06)**.
+* El módulo **Oscilador/Percutor (Lub-Dub)**.
+
+**Un meteorito llegó desde el espacio.** ¿Por qué tiene cables? ¿Las luces significan algo? ¿Qué nos están tratando de decir? ¿Es solo ruido o hay algo más?...
+
+Los científicos intentan capturar este sonido y necesitan descifrarlo. **¿Seremos capaces? ¿Será que aún no estamos listos?**...
+
+Primero necesitamos entender su forma. En la Tierra existen unas rocas llamadas **geodas**. Estas son formaciones geológicas cuyo interior está parcial o totalmente cristalizado.
+
+Los cristales de este meteorito son muy parecidos a los de una geoda. **¿Será que la luz en su interior y sus cristales están tratando de salir por los orificios para no pasar desapercibidos?**
+
+**Su interior:**
+
+En su interior hay unas placas que están emitiendo señales. En uno de sus lados se encuentran estas luces y, en el otro, está el **¿corazón?** Tiene la forma de un corazón humano, aunque no sabemos de dónde proviene este meteorito.
+
+Lo que sí sabemos es que, **al conectarlo, comienza a emitir señales**. Se escuchan ruidos intensos, como un corazón acelerado, o sonidos más débiles, como un corazón que se está apagando. Su pulso puede ser fuerte o suave y la señal puede volverse lenta o muy rápida, **como una taquicardia**.
+
+### Construcción
 
 Para representar la caída del meteorito, el caos y su conexión con la Tierra, esta carcasa fue **construida completamente a mano**, alejándonos por completo de la fabricación digital. Su base se conforma por una estructura alámbrica recubierta con papel aluminio para generar el soporte estructural. Sobre esto, se modeló el volumen con cerámica en frío para lograr la textura rocosa, finalizando con un trabajo de pintura. 
 
+FOTOS PROCESO
+
 El detalle más íntimo de esta pieza se encuentra en su interior: cristales adheridos a mano que simulan el corazón cristalizado de una geoda real. Las luces LED de los circuitos actúan como indicadores visuales del "latido" del sistema, brillando y refractándose a través de estos cristales internos para asomarse hacia el exterior, invitando al observador a mirar dentro de la roca.
 
-### 6.2. La Carcasa del Filtro: Precisión y Transparencia (Corte Láser)
+### Carcasa 2: Filtro
 
 Esta segunda carcasa está dedicada exclusivamente al módulo del **Filtro Paso Bajo (VCF) del Grupo 05**. A diferencia de la rusticidad orgánica de la Geoda, esta unidad representa la precisión, el "cielo" y la observación estructurada.
 
